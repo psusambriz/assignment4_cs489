@@ -36,9 +36,7 @@ python -m spacy download en_core_web_lg
 
 ## Usage
 
-1. Clone this repository to your local machine or cloud environment.
-2. Ensure the prerequisites are installed.
-3. Run the Python script:
+1. Simply run the Notebook! The pre-reqs are included when you run the notebook.
 
 ---
 
